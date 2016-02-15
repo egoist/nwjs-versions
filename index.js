@@ -1,7 +1,7 @@
 'use strict'
 
-const aimer = require('aimer')
-const isSemver = require('is-semver')
+var aimer = require('aimer')
+var isSemver = require('is-semver')
 
 module.exports = function () {
 	return aimer('http://dl.nwjs.io/')
