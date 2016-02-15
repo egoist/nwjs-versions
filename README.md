@@ -14,7 +14,7 @@ $ npm install --save nwjs-versions
 const nwjsVersions = require('nwjs-versions')
 
 nwjsVersions()
-//=> returns array ['0.8.0', '0.8.1', ... '0.12.0', ...]
+//=> returns a Promise which resolves array ['0.8.0', '0.8.1', ... '0.12.0', ...]
 ```
 
 ## License
