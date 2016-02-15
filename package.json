@@ -1,6 +1,6 @@
 {
   "name": "nwjs-versions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get all available nw.js versions.",
   "license": "MIT",
   "repository": "egoist/nwjs-versions",
